@@ -15,7 +15,7 @@ LABEL org.opencontainers.image.title="Tech Conferences" \
     <p>As a developer and a technical lover, it is handy to have a calendar to look at to know when will be the next event.</p>" \
     com.docker.extension.publisher-url="http://scraly.com/" \
     com.docker.extension.additional-urls="[ \
-    {\"title\":\"Developer Conferences agenda\", \"url\":\"https://developers.events/\"} \
+    {\"title\":\"Developer Conferences agenda\", \"url\":\"https://developers.events/\"}, \
     {\"title\":\"GitHub\", \"url\":\"https://github.com/scraly/developers-conferences-agenda/\"} \
     ]" \
     com.docker.extension.changelog="<ul>\
