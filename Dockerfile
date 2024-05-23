@@ -7,14 +7,15 @@ LABEL org.opencontainers.image.title="Tech Conferences" \
     {\"alt\": \"Tech conferences - Agenda view\", \"url\": \"https://raw.githubusercontent.com/scraly/conferences-extension/main/assets/conferences-extension.png\"}, \
     {\"alt\": \"Tech conferences - Filter\", \"url\": \"https://raw.githubusercontent.com/scraly/conferences-extension/main/assets/conferences-extension-2.png\"} \
     ]" \
-    com.docker.extension.detailed-description="This extension lists a maximum of conference dates to help conference organizers. \
-    As conference organizers, one of the first question we ask ourselves is what will be the ideal date for our event. \
+    com.docker.extension.detailed-description="<p>This extension lists a maximum of conference dates to help conference organizers.</p> \
+    <p>As conference organizers, one of the first question we ask ourselves is what will be the ideal date for our event.</p> \
     \
-    One piece of data to take into account is the date of other events, but how do you find it? \
+    <p>One piece of data to take into account is the date of other events, but how do you find it?</p> \
     \
-    As a developer and a technical lover, it is handy to have a calendar to look at to know when will be the next event." \
+    <p>As a developer and a technical lover, it is handy to have a calendar to look at to know when will be the next event.</p>" \
     com.docker.extension.publisher-url="http://scraly.com/" \
     com.docker.extension.additional-urls="[ \
+    {\"title\":\"Developer Conferences agenda\", \"url\":\"https://developers.events/\"} \
     {\"title\":\"GitHub\", \"url\":\"https://github.com/scraly/developers-conferences-agenda/\"} \
     ]" \
     com.docker.extension.changelog="<ul>\
