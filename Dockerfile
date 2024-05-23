@@ -2,10 +2,10 @@ FROM alpine
 LABEL org.opencontainers.image.title="Tech Conferences" \
     org.opencontainers.image.description="List tech conferences and CFP" \
     org.opencontainers.image.vendor="Scraly" \
-    com.docker.desktop.extension.api.version="1.1.0" \
+    com.docker.desktop.extension.api.version="0.3.0" \
     com.docker.extension.screenshots="[ \
     {\"alt\": \"Tech conferences - Agenda view\", \"url\": \"https://raw.githubusercontent.com/scraly/conferences-extension/main/assets/conferences-extension.png\"}, \
-    {\"alt\": \"Tech conferences - Filter\", \"url\": \"https://raw.githubusercontent.com/scraly/conferences-extension/main/assets/conferences-extension-2.png\"}, \
+    {\"alt\": \"Tech conferences - Filter\", \"url\": \"https://raw.githubusercontent.com/scraly/conferences-extension/main/assets/conferences-extension-2.png\"} \
     ]" \
     com.docker.extension.detailed-description="This extension lists a maximum of conference dates to help conference organizers. \
     As conference organizers, one of the first question we ask ourselves is what will be the ideal date for our event. \
